@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "functions_eventshub_to_cosmosdb": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7260",
+      "launchBrowser": false
+    }
+  }
+}

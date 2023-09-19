@@ -1,0 +1,17 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+      "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+      "EVENT_HUB_NAME": "",
+      "EVENT_HUB_BATCH_CONSUMER_GROUP": "batchyellotaxievents",
+      "EVENT_HUB_INDIVIDUAL_CONSUMER_GROUP": "individualyellotaxievents",
+      "COSMOSDB_DATABASE": "",
+      "COSMOSDB_BATCH_EVENTS_CONTAINER": "batchevents",
+      "COSMOSDB_INDIVIDUAL_EVENTS_CONTAINER": "individualevents"
+    },
+    "ConnectionStrings": {
+      "EVENT_HUB_CONNECTION_STRING": "",
+      "COSMOSDB_CONNECTION_STRING": ""
+    }
+  }
